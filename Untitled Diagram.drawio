@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T06:20:49.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="GbtgUEpkWx7w3CV2uwPD" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T06:21:31.269Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="f5dKev979wC5KRQmM43u" version="15.5.2" type="github">
   <diagram id="dV3BQm-n_wvEhmt7Esac" name="Page-1">
     <mxGraphModel dx="1298" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-4" target="S3Lw9FbXWAk1CZ6_u5dL-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="30" height="60" as="geometry" />
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-4" value="Resident" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-7">
           <mxGeometry relative="1" as="geometry">
