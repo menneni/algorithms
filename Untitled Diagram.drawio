@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T08:43:48.907Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="hl6utZimmH_cHQSu7fx3" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-30T08:49:43.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rEw0hxnMNQsYvub1KuTk" version="15.6.2" type="github">
   <diagram id="dV3BQm-n_wvEhmt7Esac" name="Page-1">
     <mxGraphModel dx="1298" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,8 +57,8 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-33" target="S3Lw9FbXWAk1CZ6_u5dL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-33" value="Mail to respective team mail" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-33" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Mail to respective team mail (&lt;span id=&quot;docs-internal-guid-dc43442a-7fff-2f08-25b0-1686dedf294e&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;women.safety@vertexpanache.com&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="420" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-35" value="Not sure whom to send?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="540" width="150" height="20" as="geometry" />
@@ -76,7 +76,7 @@
           <mxGeometry x="650" y="620" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-45" value="Still not resolved?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="430" width="110" height="20" as="geometry" />
+          <mxGeometry x="680" y="430" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-46" value="Still not resolved after specified time?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="630" width="210" height="20" as="geometry" />
