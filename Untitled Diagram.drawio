@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T11:10:21.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dnD3KbMri-HKPCwxP4z3" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T11:13:08.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EMBOnSmPkaiFzPF_K6sI" version="15.6.2" type="github">
   <diagram id="dV3BQm-n_wvEhmt7Esac" name="Page-1">
     <mxGraphModel dx="1298" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,28 +34,26 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-19" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Day to day issue/Block level/Payments/Project?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="340" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="227.5" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hGRPiKZgXf0--W9RE6dF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.621;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-21" target="S3Lw9FbXWAk1CZ6_u5dL-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hGRPiKZgXf0--W9RE6dF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-21" target="S3Lw9FbXWAk1CZ6_u5dL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-21" value="&lt;span&gt;Raise complaint in MyGate Help desk by selecting appropriate category&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="156.25" y="170" width="142.5" height="120" as="geometry" />
+          <mxGeometry x="110" y="110" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-26" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Resolved?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="223.75" y="110" width="80" height="20" as="geometry" />
+          <mxGeometry x="230" y="90" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-28" value="&lt;span id=&quot;docs-internal-guid-10c72aca-7fff-022a-ff5a-32ac9e3cebfc&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rate the performance of the service team and resolve ticket&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="156.25" y="10" width="160" height="60" as="geometry" />
+          <mxGeometry x="150" y="10" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-32" value="Women" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="430" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-33" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Mail to respective team mail (&lt;span id=&quot;docs-internal-guid-dc43442a-7fff-2f08-25b0-1686dedf294e&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;women.safety@vertexpanache.com&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="420" width="200" height="60" as="geometry" />
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-33" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font&gt;Mail to respective team mail (&lt;span id=&quot;docs-internal-guid-dc43442a-7fff-2f08-25b0-1686dedf294e&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;women.safety@vertexpanache.com&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="420" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-35" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Not sure whom to send?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="220" y="540" width="170" height="20" as="geometry" />
@@ -63,20 +61,20 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-36" target="S3Lw9FbXWAk1CZ6_u5dL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-36" value="Mail to association@vertexpanace.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-36" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Mail to association@vertexpanace.com&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="620" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hGRPiKZgXf0--W9RE6dF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-39" target="S3Lw9FbXWAk1CZ6_u5dL-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-39" value="Escalate (mail to head.association@vertexpanache.com)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-39" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Escalate (mail to head.association@vertexpanache.com)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="620" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-46" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Still not resolved after specified time?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="630" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hGRPiKZgXf0--W9RE6dF-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Not resolved after all escalations in MyGate?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="210" width="290" height="20" as="geometry" />
+          <mxGeometry x="390" y="200" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hGRPiKZgXf0--W9RE6dF-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Resolved?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="865" y="435" width="80" height="20" as="geometry" />
