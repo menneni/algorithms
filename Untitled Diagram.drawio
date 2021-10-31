@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T08:49:43.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rEw0hxnMNQsYvub1KuTk" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-31T10:33:24.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Ua4YrnIGF6_2wb2I43AJ" version="15.6.2" type="github">
   <diagram id="dV3BQm-n_wvEhmt7Esac" name="Page-1">
     <mxGraphModel dx="1298" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,8 +51,8 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-28" value="&lt;span id=&quot;docs-internal-guid-10c72aca-7fff-022a-ff5a-32ac9e3cebfc&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; background-color: transparent ; vertical-align: baseline&quot;&gt;Rate the performance of the service team and resolve ticket&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="156.25" y="10" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-32" value="Finance/Block issues/Women" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="290" y="430" width="170" height="20" as="geometry" />
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-32" value="Women" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="430" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-33" target="S3Lw9FbXWAk1CZ6_u5dL-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
