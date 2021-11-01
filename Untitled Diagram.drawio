@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-31T11:13:08.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EMBOnSmPkaiFzPF_K6sI" version="15.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T14:46:57.594Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ayUEJWQCD4yLo-CBgM87" version="15.6.2" type="github">
   <diagram id="dV3BQm-n_wvEhmt7Esac" name="Page-1">
     <mxGraphModel dx="1298" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-4" target="S3Lw9FbXWAk1CZ6_u5dL-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-4" value="Resident" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+        <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Resident&lt;/b&gt;&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="420" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S3Lw9FbXWAk1CZ6_u5dL-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="S3Lw9FbXWAk1CZ6_u5dL-7" edge="1">
